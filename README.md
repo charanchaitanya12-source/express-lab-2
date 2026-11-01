@@ -1,7 +1,7 @@
 # Lab 2: SQLite Database and CRUD Routes
 
-**Name:** Tejas R  
-**Registration Number:** 252U1R8093 
+**Name:** Charan Chaitanya  
+**Registration Number:** 252U1R8079
 **Class:** B.Tech CSE (Quantum Engineering) – 2B  
 **Section:** S-13 204
 
